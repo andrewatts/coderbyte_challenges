@@ -6,11 +6,11 @@
 function firstFactorial(num) {
 
   var arr = [];
-  for (var i = num; i>0; i--) {
+  for (var i = num; i > 0; i--) {
     arr.push(i);
   }
   var num = arr.reduce(function(previousValue, currentValue) {
-    return previousValue*currentValue;
+    return previousValue * currentValue;
   });
   return num;
 
