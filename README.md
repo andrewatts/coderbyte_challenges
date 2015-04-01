@@ -1,4 +1,3 @@
-# coderbyte_challenges
-Coderbyte challenge solutions in JavaScript.
+# Coderbyte Challenges
 
-Reference [coderbyte.com] challenge solutions with comments.
+A reference for [coderbyte.com] challenge solutions in JavaScript with comments.
